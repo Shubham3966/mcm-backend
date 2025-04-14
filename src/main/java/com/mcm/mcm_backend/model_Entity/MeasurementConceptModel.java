@@ -44,7 +44,6 @@ public class MeasurementConceptModel {
     private List<MeteringLocationPurpose> meteringLocationPurposes;
 
     public Object map(Object object) {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'map'");
     }
 
